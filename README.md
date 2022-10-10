@@ -15,3 +15,5 @@ c. Reset Button: The reset button is used to set the stopwatch to 00:00:00 again
 2. XML: Extensible Markup Language is useful as it helps us create the user interface for the application. Knowing the basics of it will help you as
 
 3. Android Studio: Android Studio is the platform that we will use for the development of our project. This makes it important for the users to know about the IDE they work on.
+
+#Screenshot is also available for reference
